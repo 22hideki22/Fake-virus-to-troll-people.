@@ -1,5 +1,4 @@
 # Virus.
-use this Fake virus to troll your friends!
-this is Nothing Dangerous!
-Its just a .EXE with nothing inside!
-Have fun!
+I recomend u test this in Virtual box.
+this is Dangerous.
+good luck!
